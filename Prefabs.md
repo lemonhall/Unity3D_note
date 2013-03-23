@@ -1,0 +1,4 @@
+Prefabs
+Prefabs是一种可重用的GameObjects，把GameObjects从Hierarchy扔到Project窗口后就创建了一个Prefabs，特征是，在Hierarchy窗口中，其显示为蓝色
+
+
